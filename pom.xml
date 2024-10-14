@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/Babak Desktop/CD-for-software-packages</url>
+      <url>https://maven.pkg.github.com/babak01/CD-for-software-packages</url>
 
     </repository>
   </distributionManagement>
